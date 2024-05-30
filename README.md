@@ -7,7 +7,3 @@ We then employ Power BI, a powerful business intelligence tool, to visualize and
 Key insights derived from our analysis include:
 
 Education and Marital Status Analysis: Segmentation of cardholders based on education levels and marital status reveals nuanced spending behaviors and preferences within different demographic groups. Card-specific Transaction Analysis: Individual analysis of the four credit cards uncovers transaction trends, popular spending categories, and anomalies, enabling tailored marketing strategies and product offerings. Age Group Classification: Classification of cardholders into distinct age groups facilitates the exploration of spending patterns and preferences across generations, guiding targeted marketing efforts. Gender Analysis: Categorization of cardholders by gender reveals gender-specific spending trends and preferences, informing personalized marketing campaigns and customer engagement strategies. In addition to the insights generated, our project showcases the integration of SQL queries for efficient data extraction and preprocessing, as well as the utilization of Power BI DAX for dynamic analysis and visualization.
-
-Screenshot_22-4-2024_17471_
-
-Screenshot_22-4-2024_174723_
